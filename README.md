@@ -1,2 +1,1 @@
-# exerc-cios-Guanabara
-# Exercícios do Curso em Vídeo.
+# Um pouco do Python orientado a objetos .
